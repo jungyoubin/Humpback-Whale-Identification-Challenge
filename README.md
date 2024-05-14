@@ -1,5 +1,5 @@
 # Humpback-Whale-Identification-Challenge
 - 2023 영상처리와딥러닝 기말프로젝트
-- Few-shot Learning
+- Metric Learning
 - 최종: 1위/29명
 #### link: https://www.kaggle.com/competitions/whale-categorization-playground/overview
